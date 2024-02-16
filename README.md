@@ -2,14 +2,11 @@
 
 ### Hi I'm Akshat Khandelwal 👋
 
- I am a passionate Mobile and Web Frontend Engineer from India. I've recently completed my Btech Graduation from IIT Roorkee Batch'22 and am excited to work on Indutry leading tech projects. I would love to define myslef as a deliverer of high quality, and effecient developer   for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
-
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
-
+I am a passionate Mobile and Web Frontend Engineer from India. I've recently completed my Btech Graduation from IIT Roorkee Batch'22 and I am excited to work on Indutry leading tech projects. I  of high quality, and effecient software systems and show this through my work ethic and output take great care in the experience, architecture, and code quality of the things I build.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💼 any freelance work? do reach, [email](mailto:abhishknads.work@gmail.com) :)
+- 💼 reach out to me on, [email](mailto:akshatk128@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**  
