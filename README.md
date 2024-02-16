@@ -2,7 +2,7 @@
 
 ### Hi I'm Akshat Khandelwal 👋
 
-I am a passionate Mobile and Web Frontend Engineer from India. I've recently completed my Btech Graduation from IIT Roorkee Batch'22 and I am excited to work on Indutry leading tech projects. I  of high quality, and effecient software systems and show this through my work ethic and output take great care in the experience, architecture, and code quality of the things I build.
+I am a passionate Mobile and Web Frontend Engineer from India. I've recently completed my Btech Graduation from IIT Roorkee Batch'22 and I am really enthusiastic to work on Indutry leading tech projects. I take great care in creating software with a focus on quality, efficiency and optimal performance.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
